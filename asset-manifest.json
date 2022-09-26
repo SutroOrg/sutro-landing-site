@@ -1,15 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.195c5b1f.css",
-    "main.js": "/static/js/main.d24b7d41.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/static/css/main.8422ea7f.css",
+    "main.js": "/static/js/main.53ab7e4b.js",
+    "static/js/415.e74f848b.chunk.js": "/static/js/415.e74f848b.chunk.js",
+    "static/media/owen.jpeg": "/static/media/owen.618747932d78aa8aa355.jpeg",
+    "static/media/logo.svg": "/static/media/logo.64ef5a26b4c91d84c675449c6937bb3d.svg",
+    "static/media/PlusJakartaSans-Bold.woff": "/static/media/PlusJakartaSans-Bold.3d6b4fa00ddd6f9fae49.woff",
+    "static/media/PlusJakartaSans-SemiBold.woff": "/static/media/PlusJakartaSans-SemiBold.0c667bc0885bb51bda89.woff",
+    "static/media/PlusJakartaSans-Regular.woff": "/static/media/PlusJakartaSans-Regular.f344d0fa890f4d98d58b.woff",
+    "static/media/PlusJakartaSans-Bold.woff2": "/static/media/PlusJakartaSans-Bold.50cf6471d1a39b735af6.woff2",
+    "static/media/PlusJakartaSans-SemiBold.woff2": "/static/media/PlusJakartaSans-SemiBold.dc64b89d6242623573c4.woff2",
+    "static/media/hayden.jpeg": "/static/media/hayden.ddae53a46058ba6d50c9.jpeg",
+    "static/media/PlusJakartaSans-Regular.woff2": "/static/media/PlusJakartaSans-Regular.c4e0d18736aa954b32bf.woff2",
+    "static/media/dan.jpeg": "/static/media/dan.b10265d9f8074904fce0.jpeg",
+    "static/media/hirad.jpeg": "/static/media/hirad.f7bb8d59360052ce0808.jpeg",
+    "static/media/ben.jpeg": "/static/media/ben.9e60db9c1ce56c051b42.jpeg",
+    "static/media/chrome.svg": "/static/media/chrome.1960454c0407abb35e47d7cd7042703c.svg",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.b234e2958398ba4af8f5468aadc0e396.svg",
+    "static/media/expo.svg": "/static/media/expo.00437c7f1f81fdb10727a75b75dc0de8.svg",
+    "static/media/meta.svg": "/static/media/meta.4b01f8dcc7bf1b37c10207b53f5f649b.svg",
+    "static/media/uber.svg": "/static/media/uber.3bc02c1f158151126cf591754e6e3269.svg",
+    "static/media/stripe.svg": "/static/media/stripe.a98b0cfaae01e60c148f1c81a6de690b.svg",
     "index.html": "/index.html",
-    "main.195c5b1f.css.map": "/static/css/main.195c5b1f.css.map",
-    "main.d24b7d41.js.map": "/static/js/main.d24b7d41.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.8422ea7f.css.map": "/static/css/main.8422ea7f.css.map",
+    "main.53ab7e4b.js.map": "/static/js/main.53ab7e4b.js.map",
+    "415.e74f848b.chunk.js.map": "/static/js/415.e74f848b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.195c5b1f.css",
-    "static/js/main.d24b7d41.js"
+    "static/css/main.8422ea7f.css",
+    "static/js/main.53ab7e4b.js"
   ]
 }
