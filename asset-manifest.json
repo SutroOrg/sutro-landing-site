@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9f0a835.css",
-    "main.js": "/static/js/main.29156c2a.js",
+    "main.js": "/static/js/main.e6689dc8.js",
     "static/js/698.03e97c3c.chunk.js": "/static/js/698.03e97c3c.chunk.js",
     "static/media/hirad.png": "/static/media/hirad.f5d7893685db2bfbaf4e.png",
     "static/media/simon.png": "/static/media/simon.c00f207a8e301ca3e65e.png",
@@ -19,17 +19,19 @@
     "static/media/chrome.svg": "/static/media/chrome.1960454c0407abb35e47d7cd7042703c.svg",
     "static/media/hero-illustration.svg": "/static/media/hero-illustration.b234e2958398ba4af8f5468aadc0e396.svg",
     "static/media/expo.svg": "/static/media/expo.00437c7f1f81fdb10727a75b75dc0de8.svg",
+    "static/media/ibm.svg": "/static/media/ibm.da1c232f8388f3f38c3907b4c9ffe2cb.svg",
     "static/media/meta.svg": "/static/media/meta.4b01f8dcc7bf1b37c10207b53f5f649b.svg",
     "static/media/openai.svg": "/static/media/openai.8a656c8f04c23d80873370982f9dfd3e.svg",
     "static/media/uber.svg": "/static/media/uber.3bc02c1f158151126cf591754e6e3269.svg",
     "static/media/stripe.svg": "/static/media/stripe.a98b0cfaae01e60c148f1c81a6de690b.svg",
     "index.html": "/index.html",
+    "static/media/x.svg": "/static/media/x.e13b6c4059eb859176518aa0899c7f1a.svg",
     "main.f9f0a835.css.map": "/static/css/main.f9f0a835.css.map",
-    "main.29156c2a.js.map": "/static/js/main.29156c2a.js.map",
+    "main.e6689dc8.js.map": "/static/js/main.e6689dc8.js.map",
     "698.03e97c3c.chunk.js.map": "/static/js/698.03e97c3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9f0a835.css",
-    "static/js/main.29156c2a.js"
+    "static/js/main.e6689dc8.js"
   ]
 }
